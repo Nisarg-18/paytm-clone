@@ -11,7 +11,7 @@ A paytm home page clone made using HTML and Tailwind CSS
 ## Time Taken for Completion
 - 6 hours
 
-<!-- ### Checkout the Project here : [portfoliodeveloper](https://portfoliodeveloper.netlify.app/) -->
+### Checkout the Project here : [paytm](https://repaytm.netlify.app/)
 
 ## Output
 
